@@ -449,7 +449,7 @@ function Andz:AddWindows(cf)
 	LogoId.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	LogoId.BorderSizePixel = 0
 	LogoId.Size = UDim2.new(1, 0, 1, 0)
-	LogoId.Image = "rbxassetid://78151437260056"
+	LogoId.Image = "rbxassetid://0"
 
 	UICorner_3.CornerRadius = UDim.new(1, 0)
 	UICorner_3.Parent = LogoId
